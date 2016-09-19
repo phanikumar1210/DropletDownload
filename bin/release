@@ -3,5 +3,4 @@
 
 # Configure directories
 build_dir=$1
-echo $build_dir > welcome
 cd $build_dir
