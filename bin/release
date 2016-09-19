@@ -4,3 +4,4 @@
 # Configure directories
 build_dir=$1
 cd $build_dir
+cat ./release.yml
